@@ -1,1 +1,12 @@
-theme: jekyll-theme-midnight
+title: AbsaOss
+description: ABSA's Open Source Projects
+
+collections:
+  careers:
+    title: Careers
+    description: A collection of career pages
+    output: true
+
+plugins:
+  # https://help.github.com/en/articles/mentions-on-github-pages
+  - jekyll-mentions
