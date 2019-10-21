@@ -29,7 +29,7 @@ Location: {{ page.location }}
 
 ### Desirable Skills
 - Experience with Scala or other functional languages (Haskell, Clojure, Kotlin, Clean) 
-- Experience with any of the 
+- Experience with any of the following:
     - Big Data Technologies: Apache Hadoop, Spark, Oozie
     - Databases: MongoDB, ArrangoDB or equivalent
     - Application Development: Spring, Angular, OpenUI5 or equivalent
