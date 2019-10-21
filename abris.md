@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atum
+title: ABRiS
 ---
 
-For now, please refer to the GitHub repository of [Atum](https://github.com/AbsaOSS/Atum)
+For now, please refer to the GitHub repository of [Atum](https://github.com/AbsaOSS/ABRiS)
