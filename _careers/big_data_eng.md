@@ -2,7 +2,7 @@
 layout: default
 title: Big Data Engineer
 location: "Prague, CZ"
-excerpt: "Big Data Engineer will work alongside of experienced and junior engineers on development of mission critical projects and applications using the most modern Big Data technology stack."
+excerpt: "As a Big Data Engineer you will work alongside experienced and junior engineers on development of mission critical projects and applications using the most modern Big Data technology stack."
 ---
 Location: {{ page.location }}
 
