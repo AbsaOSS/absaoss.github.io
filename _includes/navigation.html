@@ -1,0 +1,62 @@
+<nav class="main-nav">
+  <h3>Navigation</h3>
+
+  <ul class="nav flex-column nav-pills nav-fill">
+    <li class="nav-item ">
+      <a class="nav-link {% if page.url == "/" %}active{% endif %}"
+        href="{{ site.baseurl }}/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.title == "Atum" %}active{% endif %}"
+        href="{{ site.baseurl }}/atum">Atum</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.title == "Cobrix" %}active{% endif %}"
+        href="{{ site.baseurl }}/cobrix">Cobrix</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.title == "Enceladus" %}active{% endif %}"
+        href="{{ site.baseurl }}/enceladus">Enceladus</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.title == "HyperDrive" %}active{% endif %}"
+        href="{{ site.baseurl }}/hyperdrive">HyperDrive</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.title == "Spline" %}active{% endif %}"
+        href="{{ site.baseurl }}/spline">Spline</a>
+    </li>
+    <li class="nav-item ">
+      <a class="nav-link {% if page.title == "About Us" %}active{% endif %}"
+        href="{{ site.baseurl }}/about">About Us</a>
+    </li>
+    <li class="nav-item ">
+      <a class="nav-link {% if page.title == "Careers" %}active{% endif %}"
+        href="{{ site.baseurl }}/careers">Careers</a>
+    </li>
+  </ul>
+
+  <ul id="shortcuts" class="list-inline d-flex justify-content-between p-2">
+    <li class="list-inline-item text-center">
+      <a href="https://github.com/AbsaOSS/enceladus" target="_blank" class="text-dark">
+        <i class="fab fa-github fa-2x"></i>
+
+        <p>Github</p>
+      </a>
+    </li>
+    <li class="list-inline-item text-center">
+      <a href="https://github.com/AbsaOSS/enceladus/issues" target="_blank" class="text-dark">
+        <i class="fas fa-bug fa-2x"></i>
+
+        <p>Issues</p>
+      </a>
+    </li>
+    <li class="list-inline-item text-center">
+      <a href="https://mvnrepository.com/artifact/za.co.absa" target="_blank" class="text-dark">
+        <i class="fas fa-file-archive fa-2x"></i>
+
+        <p>Maven</p>
+      </a>
+    </li>
+  </ul>
+</nav>
