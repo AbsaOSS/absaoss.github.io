@@ -95,7 +95,7 @@ directSubClassesOf[Food] // == Seq(classOf[Vegetables], classOf[Meat], classOf[F
 objectsOf[Currency] // == Seq(classOf[EUR], classOf[USD], classOf[CZK])
 ```
 
-####### Get `object` instance by it's full type name (similar to `Class.forName(...)`, but for objects)
+###### Get `object` instance by it's full type name (similar to `Class.forName(...)`, but for objects)
 
 ```scala
 objectForName[MySingleton]("com.example.MySingleton") // == MySingleton
