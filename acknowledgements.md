@@ -9,7 +9,8 @@ for their support in our open-source project development.
 Thank you!
 
  
-### <img src="https://dxssrr2j0sq4w.cloudfront.net/3.2.0/img/style-guide/zenhub-black.png" height="64" alt="ZenHub Logo">
+<img src="https://dxssrr2j0sq4w.cloudfront.net/3.2.0/img/style-guide/zenhub-black.png" height="64" alt="ZenHub Logo">
+
 [ZenHub](https://www.zenhub.com/blog/open-source/) supports development community by providing their service free of charge 
 for open-source users and students.
 
