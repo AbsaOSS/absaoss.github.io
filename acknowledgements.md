@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acknowledges
+title: Acknowledgements
 ---
 
 We would like to thank the following companies and organisations 
