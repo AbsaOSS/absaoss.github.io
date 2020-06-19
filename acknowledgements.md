@@ -13,7 +13,8 @@ Thank you!
 [ZenHub](https://www.zenhub.com/blog/open-source/) supports development community by providing their service free of charge 
 for open-source users and students.
 
-### <img src="https://resources.jetbrains.com/storage/products/teamcity/img/meta/teamcity_logo_300x300.png" height="48" alt="JetBrains TeamCity Logo"> JetBrains
+<img src="https://resources.jetbrains.com/storage/products/teamcity/img/meta/teamcity_logo_300x300.png" height="48" alt="JetBrains TeamCity Logo"> **JetBrains**
+
 [JetBrains](https://www.jetbrains.com/) provides a free [TeamCity](https://teamcity.jetbrains.com/) instance for selected OSS projects
 that we successfully use for Spline and a few other applications. 
 
