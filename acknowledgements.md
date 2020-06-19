@@ -20,7 +20,6 @@ that we successfully use for Spline and a few other applications.
 ### <img src="https://www.yourkit.com/images/yklogo.png" alt="Your Kit Logo">
 YourKit supports open source projects with innovative and intelligent tools
 for monitoring and profiling Java and .NET applications.
-YourKit is the creator of <a href="https://www.yourkit.com/java/profiler/">YourKit Java Profiler</a>,
+YourKit is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/),
 <a href="https://www.yourkit.com/.net/profiler/">YourKit .NET Profiler</a>,
 and <a href="https://www.yourkit.com/youmonitor/">YourKit YouMonitor</a>.
-
