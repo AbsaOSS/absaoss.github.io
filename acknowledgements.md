@@ -18,7 +18,8 @@ for open-source users and students.
 [JetBrains](https://www.jetbrains.com/) provides a free [TeamCity](https://teamcity.jetbrains.com/) instance for selected OSS projects
 that we successfully use for Spline and a few other applications. 
 
-### <img src="https://www.yourkit.com/images/yklogo.png" alt="Your Kit Logo">
+<img src="https://www.yourkit.com/images/yklogo.png" alt="Your Kit Logo">
+
 YourKit supports open source projects with innovative and intelligent tools
 for monitoring and profiling Java and .NET applications.
 YourKit is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/),
