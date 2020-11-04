@@ -10,3 +10,5 @@ collections:
 plugins:
   # https://help.github.com/en/articles/mentions-on-github-pages
   - jekyll-mentions
+
+markdown: GFM

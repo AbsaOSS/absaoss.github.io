@@ -1,0 +1,19 @@
+---
+  - name: info-abris
+    pretty_name: ABRiS
+  - name: info-atum
+    pretty_name: Atum
+  - name: info-cobrix
+    pretty_name: Cobrix
+  - name: info-enceladus
+    pretty_name: Enceladus
+  - name: info-fixed-width
+    pretty_name: FixedWidth
+  - name: info-hyperdrive
+    pretty_name: HyperDrive
+  - name: info-k8gb
+    pretty_name: k8gb
+  - name: info-spline
+    pretty_name: Spline
+  - name: info-commons
+    pretty_name: ABSA Commons
