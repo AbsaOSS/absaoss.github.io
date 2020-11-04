@@ -5,6 +5,6 @@ title: k8gb
 
 A cloud native Kubernetes Global Balancer.
 
-Project website: https://www.k8gb.io/
+Project website: [https://www.k8gb.io/](https://www.k8gb.io/)
 
-GitHub repository: https://github.com/AbsaOSS/k8gb
+GitHub repository: [https://github.com/AbsaOSS/k8gb](https://github.com/AbsaOSS/k8gb)
