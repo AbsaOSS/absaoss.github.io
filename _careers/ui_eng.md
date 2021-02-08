@@ -19,7 +19,7 @@ Location: {{ page.location }}
 
 ### Must Have
 - Excellent skills with HTML5& CSS3.
-- At least 2 years of experience in UI web development with any modern JSframework (Angular4+, ReactJS, Vue.js, etc)
+- At least 2 years of experience in UI web development with any modern JS framework (Angular 4+, ReactJS, Vue.js, etc.)
 - At least 1 year of experience with Angular 4+, RxJS, Typescript, Jest/Jasmine.
 - Understanding of the general concept of SPA state management.
 - Understanding of the HTTP protocol, what is REST API, and how the client-side communicates with a server-side.

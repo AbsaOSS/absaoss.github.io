@@ -10,16 +10,16 @@ Location: {{ page.location }}
 {{ page.excerpt }}
 
 ### Responsibilities
--	Design and implementation of generic tools and platforms for some of the following:
+- Design and implementation of generic tools and platforms for some of the following:
   - enabling simple data ingestion and consumption of corporate data lake
   - various streaming use cases and products
   - machine learning applications and pipelines
--	Contribute to our projects, which can be found on [GitHub](https://github.com/AbsaOSS)
+- Contribute to our projects, which can be found on [GitHub](https://github.com/AbsaOSS)
   - we also contribute to others, like Apache Spark
--	Research of new technologies and investigation of their usability in our Big Data platforms
--	Filling gaps in the big data eco-system for it to be fully usable by financial and other highly regulated industries
--	Presenting R&D work at commercial and academic conferences
--	Mentoring junior big data engineers
+- Research of new technologies and investigation of their usability in our Big Data platforms
+- Filling gaps in the big data eco-system for it to be fully usable by financial and other highly regulated industries
+- Presenting R&D work at commercial and academic conferences
+- Mentoring junior big data engineers
 
 ### Must Have
 - Strong problem solving skills
