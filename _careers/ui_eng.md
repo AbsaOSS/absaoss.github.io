@@ -28,12 +28,12 @@ Location: {{ page.location }}
 - Be eager to learn new approaches and technologies
 
 ### Desirable Skills
-- Experiencewith:
+- Experience with:
     - state management tools: NgRx, React Redux, etc.
-    - UX/UItools: Figma, AdobeXD, Sketch, etc.
-    - CSS frameworks:Bootstrap, Materialize, Fondation, etc.
-    - Angular UI libraries:MaterialUI, PrimeNG, etc.
-    - CSS scripting language:SCSS, LESS, etc.
+    - UX/UI tools: Figma, AdobeXD, Sketch, etc.
+    - CSS frameworks: Bootstrap, Materialize, Fondation, etc.
+    - Angular UI libraries: MaterialUI, PrimeNG, etc.
+    - CSS scripting language: SCSS, LESS, etc.
 - Sense of graphic style.
 - Background in computer science, engineering, physics, mathematics or equivalent.
 
