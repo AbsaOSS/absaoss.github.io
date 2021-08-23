@@ -60,3 +60,7 @@ Location: {{ page.location }}
 - GitHub AbsaOSS [Page](https://github.com/AbsaOSS)
 - Youtube [Channel](https://www.youtube.com/playlist?list=PLZJVQ5ij3YxhecGorryvPFUoUHEBsT1gK)
 - Spline: Spark Lineage, not only for the Banking Industry [White paper](https://github.com/AbsaOSS/spline/releases/download/release%2F0.2.7/Spline_paper_IEEE_2018.pdf) 
+
+
+### Contact
+Send us a mail with your CV to <BDToolingCareers@groups.absa.africa>
