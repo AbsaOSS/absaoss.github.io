@@ -15,15 +15,16 @@ Location: {{ page.location }}
 - Research of new technologies and investigation of their usability in our systems
 
 ### Must Have
-- Strong problem solving skills
+- Strong problem-solving skills
 - Fluent written and spoken English
 - Some experience with coding, ideally python
 - Background in computer science, engineering, physics, mathematics or equivalent
+- A basic understanding of the machine learning concepts and techniques
 - Be eager to learn, improve and grow together with the team
 
 
 ### Desirable Skills
-- Be able to creatively solve challenges, by out of the box thinking, while having an understanding of the required business needs
+- Be able to creatively solve challenges by out of the box thinking while having an understanding of the required business needs
 - Be able to gain a high-level knowledge of all projects and tools developed in the Data Science space
 - Bonus points for knowledge of python, pyspark, jupyter, pandas, scikit-learn, tensorflow/keras, pytorch etc
 
