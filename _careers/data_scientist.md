@@ -11,7 +11,7 @@ Location: {{ page.location }}
 
 ### Responsibilities
 - Work closely with the business stakeholders and technology leaders
-- Design and implementation of Data Science products in various business area
+- Design and implementation of Data Science products in various business areas
 - Research of new technologies and investigation of their usability in our systems
 
 ### Must Have
