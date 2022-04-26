@@ -30,7 +30,7 @@ Location: {{ page.location }}
 
 ### Nice to have
 
-- Basic knowledge and interest in decentralization, peer-to-peer communication, Web3 and blockchain
+- Basic knowledge and interest in decentralization, peer-to-peer communication, Web3, and blockchain
 - Experience and interest to work on open-source
 - Interest in mobile app development in React Native
 
@@ -39,4 +39,4 @@ Location: {{ page.location }}
 - [React Native wrapper for Hyperledger Indy SDK](https://github.com/AbsaOSS/rn-indy-sdk)
 - [Hyperledger Aries JavaScript Framework](https://github.com/hyperledger/aries-framework-javascript/)
 
-If you're interested in this offer, send e-mail to jakub.koci@absa.africa.
+If you're interested in this offer, send an e-mail to jakub.koci@absa.africa.

@@ -22,7 +22,7 @@ Location: {{ page.location }}
 
 ### Requirements:
 
-- You have experience with web app development in React, or any other frontend framework like Vue, Angular with interest to learn React.
+- You have experience with web app development in React, or any other frontend framework like Vue or Angular with an interest to learn React.
 - You care about code quality (clean code, automated tests, …).
 - You are eager to learn new approaches and technologies.
 - You are able to communicate in English.
@@ -30,7 +30,7 @@ Location: {{ page.location }}
 
 ### Nice to have
 
-- Basic knowledge and interest in decentralization, peer-to-peer communication, Web3 and blockchain
+- Basic knowledge and interest in decentralization, peer-to-peer communication, Web3, and blockchain
 - Backend development experience
 - Interest in mobile app development in React Native
 
@@ -39,4 +39,4 @@ Location: {{ page.location }}
 - [React Native wrapper for Hyperledger Indy SDK](https://github.com/AbsaOSS/rn-indy-sdk)
 - [Hyperledger Aries JavaScript Framework](https://github.com/hyperledger/aries-framework-javascript/)
 
-If you're interested in this offer, send e-mail to jakub.koci@absa.africa.
+If you're interested in this offer, send an e-mail to jakub.koci@absa.africa.
