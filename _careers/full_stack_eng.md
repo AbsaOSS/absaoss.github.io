@@ -25,7 +25,8 @@ As a Full Stack Engineer, you should be comfortable around both front-end and ba
 - Background in computer science, engineering, physics, mathematics or equivalent
 - Experience with some of the following:
   - Databases: MongoDB, ArangoDB, Postgres, DynamoDB or others
-  - Application Development: Spring, Angular, OpenUI5 or equivalent
+  - Frontend Development: Angular, MaterialUI, OpenUI5, NgRx, SCSS or equivalent
+  - Backend Development: Java, Scala, Spring or equivalent
   - Containers: Docker, Kubernetes, OpenStack
 - Be eager to learn new approaches and technologies
 
