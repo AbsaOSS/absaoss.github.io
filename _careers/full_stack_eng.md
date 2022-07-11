@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Big Data Engineer
+title: Full Stack Engineer
 location: "Prague, CZ"
 excerpt: "As a Full Stack Engineer, you will be tasked to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment."
 ---
