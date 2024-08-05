@@ -13,6 +13,8 @@
     pretty_name: HyperDrive
   - name: info-k8gb
     pretty_name: k8gb
+  - name: info-login-service
+    pretty_name: Login Service
   - name: info-spline
     pretty_name: Spline
   - name: info-commons
